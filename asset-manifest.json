@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.df9356eb.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.df9356eb.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b77e16eb.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b77e16eb.js.map",
+    "static/css/2.679831fc.chunk.css": "/portfolio/static/css/2.679831fc.chunk.css",
+    "static/js/2.975c8d0f.chunk.js": "/portfolio/static/js/2.975c8d0f.chunk.js",
+    "static/js/2.975c8d0f.chunk.js.map": "/portfolio/static/js/2.975c8d0f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/portfolio/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.975c8d0f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.975c8d0f.chunk.js.LICENSE.txt",
+    "static/media/lovely.c52de2ad.mp3": "/portfolio/static/media/lovely.c52de2ad.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "/portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/profile-img.5179e446.png": "/portfolio/static/media/profile-img.5179e446.png",
+    "static/media/spaceman.5ec7fcfa.png": "/portfolio/static/media/spaceman.5ec7fcfa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b77e16eb.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.975c8d0f.chunk.js",
+    "static/js/main.df9356eb.chunk.js"
+  ]
+}
